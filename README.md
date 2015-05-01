@@ -62,6 +62,7 @@ The stackDepthVar is just a uint8_t
 |---|
 
 Note structure (can be extended with extra data)
+
 |struct pNote|
 |---|
 |int8_t noteValue|
@@ -70,6 +71,7 @@ Note structure (can be extended with extra data)
 |pNote * lowerPNote|
 
 Class structure
+
 |class NotePile|Comment|
 |---|---|
 |stackDepthVar maxDepth||
