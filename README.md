@@ -13,6 +13,7 @@ Repository Contents
 Version History
 ---------------
 
+* [V_1.0.1](https://github.com/marshalltaylorSFE/NotePile_Note_Handler/tree/V_1.0.0) - Fixed Tables
 * [V_1.0.0](https://github.com/marshalltaylorSFE/NotePile_Note_Handler/tree/V_1.0.0) - Initial release
 
 Basic Operation
